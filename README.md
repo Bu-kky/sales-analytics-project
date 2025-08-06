@@ -27,7 +27,7 @@ After the analysis, I was able to obtain the following observations and insights
 - **Burgers** and **Chicken Sandwiches** were the most ordered by customers but **Beverages** had the most quantities sold which indicates that customers order beverages in large quantities
 - People preferred purchasing their food **online** to other purchase methods
 - **Tom Jackson** and **Joao Silva** had the most number of customers within this period but **Joao Silva** sold more quantities of products.
-- **Remy Monet** had the least number of customers and sales
+- **Remy Monet** in **Paris** had the least number of customers and sales
   
 
 🧪 How to Run This Project
