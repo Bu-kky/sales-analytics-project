@@ -35,4 +35,4 @@ After the analysis, I was able to obtain the following observations and insights
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Bu-kky/sales-analysis-project.git
+   git clone https://github.com/Bu-kky/sales-analytics-project.git
