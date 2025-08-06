@@ -19,3 +19,7 @@ print(df["Manager"].value_counts()) #shows the number of times each manager make
 print(df.groupby("Manager")["Quantity"].sum()) #shows the total quantity sold by each manager
 print(plt.hist(df["Manager"])) #displays a histogram to visualize manager performance
 print(plt.title("Manager performance analysis"))
+
+df["Total Profit"]= df["Price"] * df["Quantity"] #adds a new column named Total profit
+print(df) #displays new table
+print(df.groupby("Manager")["Total Profit"].sum()) #displays the total amoun earned by each manager
