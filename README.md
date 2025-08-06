@@ -18,13 +18,17 @@ This is a data analytics project that explores a sales dataset to uncover busine
 
 - 'Sales-Data-Analysis.csv' – The raw sales data
 - 'salesanalysis.ipynb' – Jupyter Notebook with all the data analysis
-- `README.md` – This file
+- 'README.md' – This file
 
-📌 Key Insights
+💡 Key Observations & Insights
 
-- Top-selling product: Beverages
-- Highest performing managers: Joao Silva
-- Cities with the most sales: London and Lisbon
+After the analysis, I was able to obtain the following observations and insights:
+- **London** and **Lisbon** had the most customers in November and December but **Lisbon** made the most sales
+- **Burgers** and **Chicken Sandwiches** were the most ordered by customers but **Beverages** had the most quantities sold which indicates that customers order beverages in large quantities
+- People preferred purchasing their food **online** to other purchase methods
+- **Tom Jackson** and **Joao Silva** had the most number of customers within this period but **Joao Silva** sold more quantities of products.
+- **Remy Monet** had the least number of customers and sales
+  
 
 🧪 How to Run This Project
 
