@@ -12,6 +12,8 @@ print(plt.title("City analysis"))
 
 print(df.groupby("Product")["Quantity"].sum()) #Shows the total quantity of each of the products bought
 print(df["Product"].value_counts()) #shows the number of times a product is bought
+print(plt.hist(df["Product"])) #displays a histogram to visualize the procuct performance
+print(plt.title("Product analysis"))
 
 print(df["Purchase Type"].value_counts()) #shows the number of times each purchase type is used
 
@@ -25,4 +27,5 @@ print(plt.title("Manager performance analysis"))
 df["Total Profit"]= df["Price"] * df["Quantity"] #adds a new column named Total profit
 print(df) #displays new table
 print(df.groupby("Manager")["Total Profit"].sum()) #displays the total amoun earned by each manager
+
 
